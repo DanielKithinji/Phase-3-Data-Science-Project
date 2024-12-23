@@ -47,11 +47,13 @@ Boolean Target: churn.
 
 ## Data Visualization 
 - A count plot was used to visualize the distribution of target column "Churn". This shows dataset is unbalanced with only 14.49% of objects belonging to class 1 (True). See the attached image- 
-![alt text](image.png)
+![alt text](image.png) C:\Users\ELITEBOOK\OneDrive\Desktop\DSF-08 Phase3 Project\Churn.png
+
 
 - ROC Curves - this shows diagrom shows Random Forest performs slightly better than Gradient Boosting for this dataset, reflected by its higher AUC score and its curve being closer to the ideal top-left corner.
 
-![alt text](image-1.png)
+![alt text](C:\Users\ELITEBOOK\OneDrive\Desktop\DSF-08 Phase3 Project\ROC Curves.png)
+
 
 ## Modelling
 
