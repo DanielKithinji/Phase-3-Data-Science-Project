@@ -52,8 +52,7 @@ Boolean Target: churn.
 
 - ROC Curves - this shows diagrom shows Random Forest performs slightly better than Gradient Boosting for this dataset, reflected by its higher AUC score and its curve being closer to the ideal top-left corner.
 
-![alt text](C:\Users\ELITEBOOK\OneDrive\Desktop\DSF-08 Phase3 Project\ROC Curves.png)
-
+![alt text](image-1.png) C:\Users\ELITEBOOK\OneDrive\Desktop\DSF-08 Phase3 Project\ROC Curves.png
 
 ## Modelling
 
