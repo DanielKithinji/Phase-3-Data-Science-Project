@@ -1,7 +1,6 @@
 ### 1.0 Project Title:
 
--  Predicting Customer Churn rate for SyriaTel using Logistic Regression: Enhancing Customer Retention Strategies
-
+- Customer Churn Rate Prediction Model for SyriaTel Company Using Random Forests, Gradient Boosting Model- 
 
 ### Problem Statement:
 
